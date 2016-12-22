@@ -70,14 +70,14 @@ Here are some shortcut you might find interesting.
 
 | shortcut | functions |
 | --- | --- |
-| ,bg | switch background between dark and light |
-| ,ns | set nospell, useful when you hate those error mark at writing markdown |
-| F5 | Insert current timestamp |
-| ,{1..x} | open the buffer at number x |
-| F7 | Invoke TagbarToggle |
-| F8 | Invoke GundoToggle |
-| <C-E> | Toggle NERDTree |
-| ,sp | implement :SoftPencil |
+| `,bg` | switch background between dark and light |
+| `,ns` | set nospell, useful when you hate those error mark at writing markdown |
+| `F5` | Insert current timestamp |
+| `,{1..x}` | open the buffer at number x |
+| `F7` | Invoke TagbarToggle |
+| `F8` | Invoke GundoToggle |
+| `<C-E>` | Toggle NERDTree |
+| `,sp` | implement :SoftPencil |
 
 ## Plugins
 I use [Vundle](https://github.com/VundleVim/Vundle.vim) for plugin manager.
