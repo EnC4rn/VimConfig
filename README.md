@@ -1,4 +1,4 @@
-# Cerni's VimConfig
+# Cerni's VimConfig -- A vim configuration as learning material for dummy and beginner.
 This Vim Configuration created for vim usage mainly for lite coding and writing. It is optimised to work on Markdown, JS, C#, XML, HTML and CSS. I make this as clean as possible and you definitely need to access the specific files to do specific things. I do give comment to almost all configuration listed here, so you can see them as 'cheat sheet', especially for people who are new to vim and want to make configuration.
 
 I divide this VimConfig into several files:
@@ -15,8 +15,9 @@ Again, you **definitely** need to add your custom configuration in those specifi
 
 ## Requirements
 You need these dependency before you can use this config:
-- Git for Windows
-- Python3 or Python27
+- Vim built with python, you can use the installer [here](https://github.com/vim/vim-win32-installer/releases/tag/v8.0.0003)
+- [Git for Windows](https://git-for-windows.github.io/)
+- [Python](https://www.python.org/downloads/)
 
 ## Folder structure
 The folder structure of this vim configuration is here:
@@ -26,10 +27,10 @@ The folder structure of this vim configuration is here:
     +---.vimrc
     |
     +---\VimConfig
-    |   \---.vimrc.plugins
-    |   \---.vimrc.config
-    |   \---.vimrc.keymaps
-    |   \---.vimrc.plugin.config
+    |   +---.vimrc.plugins
+    |   +---.vimrc.config
+    |   +---.vimrc.keymaps
+    |   +---.vimrc.plugin.config
     |
     +---\.vim
     |   \---\bundles
@@ -120,3 +121,6 @@ I have these language pack plugin installed:
 - [css](https://github.com/JulesWang/css.vim) by JulesWang
 - [markdown](https://github.com/gabrielelana/vim-markdown) by Gabrielelana
 - [C#](https://github.com/OmniSharp/omnisharp-vim) by Omnisharp. You need to build this one.
+
+## Last word
+Personally, I don't really encourage to depend on anyone's configuration, but indeed, they are a good start for a new user of vim. You can understand how .vimrc actually works. I don't do many keymap because I don't needed them yet. I will add more if I find something I need. You can contact me if you having difficulty setting up your Vim. I will help as I can.
