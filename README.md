@@ -14,6 +14,8 @@ I divide this VimConfig into several files:
 
 Again, you **definitely** need to add your custom configuration in those specific file, especially the plugins since plugin and plugin configuration will not work if the order is upside down.
 
+![](VimConfig/myvim.PNG)
+
 ## Requirements
 You need these dependency before you can use this config:
 - Vim built with python, you can use the installer [here](https://github.com/vim/vim-win32-installer/releases/tag/v8.0.0003)
