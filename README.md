@@ -14,7 +14,7 @@ I divide this VimConfig into several files:
 
 Again, you **definitely** need to add your custom configuration in those specific file, especially the plugins since plugin and plugin configuration will not work if the order is upside down.
 
-![](https://c1.staticflickr.com/1/429/31692447811_dbe2e68ed6_c_d.jpg)
+![](https://c2.staticflickr.com/6/5600/31692510201_9ca77ccd3d_b_d.jpg)
 
 ## Requirements
 You need these dependency before you can use this config:
