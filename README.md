@@ -86,32 +86,32 @@ I use [Vundle](https://github.com/VundleVim/Vundle.vim) for plugin manager.
 
 These are the plugins I put in this configuration:
 
-| Plugin | Function | Link |
-| --- | --- | --- |
-| YouCompleteMe | Code Completion, you need to build it before it works | [Link](https://github.com/Valloric/YouCompleteMe) |
-| UltiSnips | Syntax snippet | [Link](https://github.com/sirver/ultisnips) |
-| Gundo | Undo history | [Link](https://github.com/sjl/Gundo.vim) |
-| vimproc | run command and got result from within vim | [Link](https://github.com/shougo/vimproc.vim) |
-| vimshell | a shell, within vim, nuff said | [Link](https://github.com/shougo/vimshell.vim) |
-| tagbar | code tags | [Link](https://github.com/majutsushi/tagbar) |
-| vim-airline | status bar for vim | [Link](https://github.com/bling/vim-airline) |
-| numbers | better line number | [Link](https://github.com/myusuf3/numbers.vim) |
-| syntastic | showing your code is wrong | [Link](https://github.com/scrooloose/syntastic) |
-| vim-snippets | snippets for UltiSnips | [Link](https://github.com/honza/vim-snippets) |
-| vim-surround | Working with surrounding symbol | [Link](https://github.com/tpope/vim-surround) |
-| colorizer | view color of your hex within text | [Link](https://github.com/lilydjwg/colorizer) |
-| nerd-commenter | commenting at vim made easy | [Link](https://github.com/scrooloose/nerdcommenter) |
-| autoclose | autoclose surrounding symbol | [Link](https://github.com/Townk/vim-autoclose) |
-| closetag | autoclose for HTML tag | [Link](https://github.com/vim-scripts/closetag.vim) |
-| wakatime | track your active time, you need to register to [wakatime.com](https://wakatime.com/) first | [Link](https://github.com/wakatime/vim-wakatime) |
-| fugitive | all about git utility | [Link](https://github.com/tpope/vim-fugitive) |
-| NERDTree | file exlporer within vim | [Link](https://github.com/scrooloose/nerdtree) |
-| ctrlpvim | mru, file and buffer explorer | [Link](https://github.com/ctrlpvim/ctrlp.vim) |
-| gitgutter | git edit indicator at editor | [Link](https://github.com/airblade/vim-gitgutter) |
-| NERDTree git plugin | git indicator at NERDTree | [Link](https://github.com/Xuyuanp/nerdtree-git-plugin) |
-| vim pencil | Writer tools, especially wrapping | [Link](https://github.com/reedes/vim-pencil) |
-| startify | a start page for vim | [Link](https://github.com/mhinz/vim-startify) |
-| devicons | icons...for vim | [Link](https://github.com/ryanoasis/vim-devicons) |
+| Plugin | Function |
+| --- | --- |
+| [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) | Code Completion, you need to build it before it works |
+| [UltiSnips](https://github.com/sirver/ultisnips) | Syntax snippet |
+| [Gundo](https://github.com/sjl/Gundo.vim) | Undo history |
+| [vimproc](https://github.com/shougo/vimproc.vim) | run command and got result from within vim |
+| [vimshell](https://github.com/shougo/vimshell.vim) | a shell, within vim, nuff said |
+| [tagbar](https://github.com/majutsushi/tagbar) | code tags |
+| [vim-airline](https://github.com/bling/vim-airline) | status bar for vim |
+| [numbers](https://github.com/myusuf3/numbers.vim) | better line number |
+| [syntastic](https://github.com/scrooloose/syntastic) | showing your code is wrong |
+| [vim-snippets](https://github.com/honza/vim-snippet) | snippets for UltiSnips |
+| [vim-surround](https://github.com/tpope/vim-surround) | Working with surrounding symbol |
+| [colorizer](https://github.com/lilydjwg/colorizer) | view color of your hex within text |
+| [nerd-commenter](https://github.com/scrooloose/nerdcommenter) | commenting at vim made easy |
+| [autoclose](https://github.com/Townk/vim-autoclose) | autoclose surrounding symbol |
+| [closetag](https://github.com/vim-scripts/closetag.vim) | autoclose for HTML tag |
+| [wakatime](https://github.com/wakatime/vim-wakatime) | track your active time, you need to register to [wakatime.com](https://wakatime.com/) first |
+| [fugitive](https://github.com/tpope/vim-fugitive) | all about git utility |
+| [NERDTree](https://github.com/scrooloose/nerdtree) | file exlporer within vim |
+| [ctrlpvim](https://github.com/ctrlpvim/ctrlp.vim) | mru, file and buffer explorer |
+| [gitgutter](https://github.com/airblade/vim-gitgutter) | git edit indicator at editor |
+| [NERDTree git plugin](https://github.com/myusuf3/numbers.vim) | git indicator at NERDTree |
+| [vim pencil](https://github.com/reedes/vim-pencil) | Writer tools, especially wrapping |
+| [startify](https://github.com/mhinz/vim-startify) | a start page for vim |
+| [devicons](https://github.com/ryanoasis/vim-devicons) | icons...for vim |
 
 ## Language pack
 I have these language pack plugin installed:
