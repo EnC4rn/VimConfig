@@ -14,8 +14,6 @@ I divide this VimConfig into several files:
 
 Again, you **definitely** need to add your custom configuration in those specific file, especially the plugins since plugin and plugin configuration will not work if the order is upside down.
 
-![](https://c2.staticflickr.com/6/5600/31692510201_9ca77ccd3d_b_d.jpg)
-
 ## Requirements
 You need these dependency before you can use this config:
 - Vim built with python, you can use the installer [here](https://github.com/vim/vim-win32-installer/releases/tag/v8.0.0003)
@@ -126,4 +124,4 @@ I have these language pack plugin installed:
 - [C#](https://github.com/OmniSharp/omnisharp-vim) by Omnisharp. You need to build this one.
 
 ## Last word
-Personally, I don't really encourage to depend on anyone's configuration, but indeed, they are a good start for a new user of vim. You can understand how .vimrc actually works. I don't do many keymap because I don't needed them yet. I will add more if I find something I need. You can contact me if you having difficulty setting up your Vim. I will help as I can.
+Personally, I don't really encourage to depend on anyone's configuration, but indeed, they are a good start for a new user of vim. You can understand how .vimrc actually works. I don't do many keymap because I don't need them yet. I will add more if I find something I need. You can contact me if you having difficulty setting up your Vim. I will help as I can.
