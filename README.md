@@ -11,6 +11,34 @@ I divide this VimConfig into several files:
 | .vimrc.keymaps | all keymaps to native vim command. Plugin's specific keymap not included here |
 | .vimrc.plugin.config | configuration for plugins used in this vim configuration. Including keymaps |
 
+## Requirements
+You need these dependency before you can use this config:
+- Git for Windows
+- Python3 or Python27
+
+## Folder structure
+The folder structure of this vim configuration is here:
+
+```javascript
+    ~/
+    +---.vimrc
+    |
+    +---\VimConfig
+    |   \---.vimrc.plugins
+    |   \---.vimrc.config
+    |   \---.vimrc.keymaps
+    |   \---.vimrc.plugin.config
+    |
+    +---\.vim
+    |   \---\bundles
+    |
+    |---\.vimview
+    |---\.vimswap
+    |---\.vimbackup
+    |---\.vimundo
+```
+
+## Plugins
 I use [Vundle](https://github.com/VundleVim/Vundle.vim) for plugin manager.
 
 These are the plugins I put in this configuration:
