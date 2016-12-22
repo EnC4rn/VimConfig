@@ -32,10 +32,10 @@ The folder structure of this vim configuration is here:
     +---\.vim
     |   \---\bundles
     |
-    |---\.vimview
-    |---\.vimswap
-    |---\.vimbackup
-    |---\.vimundo
+    +---\.vimview
+    +---\.vimswap
+    +---\.vimbackup
+    +---\.vimundo
 ```
 
 ## Plugins
