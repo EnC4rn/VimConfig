@@ -20,7 +20,7 @@ You need these dependency before you can use this config:
 The folder structure of this vim configuration is here:
 
 ```javascript
-    ~/
+    ~\
     +---.vimrc
     |
     +---\VimConfig
@@ -37,6 +37,8 @@ The folder structure of this vim configuration is here:
     +---\.vimbackup
     +---\.vimundo
 ```
+
+Please note that the `~\` means `%USERPROFILE%` or `C:\Users\[Your User]`
 
 ## Plugins
 I use [Vundle](https://github.com/VundleVim/Vundle.vim) for plugin manager.
