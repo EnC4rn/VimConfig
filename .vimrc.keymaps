@@ -63,3 +63,26 @@ nmap <leader>bf :bp<CR>
 " ----------------------------
 nmap <leader>ns :set nospell<CR>
 
+" ----------------------------
+"  Map no wrap
+" ----------------------------
+map <C-&> :set nowrap<CR>
+
+" ----------------------------
+"  deploy Hexo
+" ----------------------------
+nmap <leader>hxg :!hexo g<CR>
+nmap <leader>hxd :!hexo d<CR>
+
+" ----------------------------
+" git
+" ----------------------------
+nmap <leader>ga :Git add -A<CR>
+nmap <leader>gc :Gcommit<CR>
+nmap <leader>gp :Gpush<CR>
+
+" ----------------------------
+" Split
+" ----------------------------
+nmap <leader>sp :sp<CR>
+nmap <leader>vs :vne<CR>
