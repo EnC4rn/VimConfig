@@ -64,6 +64,7 @@ Plugin 'sheerun/vim-json'
 Plugin 'JulesWang/css.vim'
 Plugin 'gabrielelana/vim-markdown'
 Plugin 'OmniSharp/Omnisharp-vim'
+Plugin 'orangeT/vim-csharp'
 
 " -------------------------------
 " --------- fancy things --------
