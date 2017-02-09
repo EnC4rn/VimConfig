@@ -53,6 +53,8 @@ Plugin 'Xuyuanp/nerdtree-git-plugin'
 " ------- Writing Tools ---------
 " -------------------------------
 Plugin 'reedes/vim-pencil'
+" Plugin 'maksimr/vim-translator'
+Plugin 'szw/vim-dict'
 
 " -------------------------------
 " ------- Language Packs --------
